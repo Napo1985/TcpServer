@@ -45,6 +45,7 @@
     <Compile Include="DataBase\InMemoryDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResponseCreator.cs" />
     <Compile Include="TcpManager.cs" />
   </ItemGroup>
   <ItemGroup>
